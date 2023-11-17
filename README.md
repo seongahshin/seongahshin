@@ -8,6 +8,6 @@
           <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           </div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wm05028)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cindy903c@naver.com)](https://github.com/anuraghazra/github-readme-stats)
     </div>
     
